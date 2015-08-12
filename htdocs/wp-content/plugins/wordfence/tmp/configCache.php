@@ -1,0 +1,4 @@
+<?php
+/* Wordfence temporary file security header */
+echo "Nothing to see here!\n"; exit(0);
+?>a:24:{s:9:"cacheType";s:0:"";s:15:"firewallEnabled";s:1:"1";s:6:"apiKey";s:128:"b41666e2fd4caffa51646eb730cc59c641f27706afe107f89f26be29496f7b11acfb310fbf77ed443abaf2d097ec6e6e8b8ce83ee0e7d99682aa6ab9daeb668a";s:9:"howGetIPs";s:0:"";s:11:"whitelisted";s:0:"";s:6:"isPaid";s:0:"";s:11:"blockedTime";s:3:"300";s:18:"liveTrafficEnabled";s:1:"1";s:14:"disableCookies";s:1:"0";s:17:"actUpdateInterval";s:1:"2";s:7:"debugOn";s:1:"0";s:10:"tourClosed";s:1:"1";s:13:"welcomeClosed";s:1:"1";s:11:"other_WFNet";s:1:"1";s:26:"loginSec_disableAuthorScan";s:1:"1";s:18:"liveTraf_ignoreIPs";s:0:"";s:17:"liveTraf_ignoreUA";s:0:"";s:12:"neverBlockBG";s:18:"neverBlockVerified";s:13:"blockFakeBots";s:1:"0";s:10:"bannedURLs";s:0:"";s:17:"maxGlobalRequests";s:8:"DISABLED";s:18:"other_blockBadPOST";s:1:"0";s:17:"maxRequestsHumans";s:8:"DISABLED";s:6:"encKey";s:16:"f04818f2dc18d702";}

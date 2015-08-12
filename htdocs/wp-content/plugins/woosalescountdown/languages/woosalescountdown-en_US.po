@@ -1,0 +1,520 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Sales Countdown v1.8.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-29 10:46+0700\n"
+"PO-Revision-Date: 2015-01-29 03:03:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: woosalescountdown-admin.php:70
+#@ woosalescountdown
+msgid "Products Sales Countdown"
+msgstr ""
+
+#: woosalescountdown-admin.php:107
+#@ woosalescountdown
+msgid "General Options"
+msgstr ""
+
+#: woosalescountdown-admin.php:112
+#@ woosalescountdown
+msgid "Show count down"
+msgstr ""
+
+#: woosalescountdown-admin.php:116
+#@ woosalescountdown
+msgid "Please select what you want show in sale countdown."
+msgstr ""
+
+#: woosalescountdown-admin.php:119
+#@ woosalescountdown
+msgid "Only time "
+msgstr ""
+
+#: woosalescountdown-admin.php:120
+#@ woosalescountdown
+msgid "Only bar sale"
+msgstr ""
+
+#: woosalescountdown-admin.php:125
+#@ woosalescountdown
+msgid "Product Sale Countdown show on"
+msgstr ""
+
+#: woosalescountdown-admin.php:129
+#@ woosalescountdown
+msgid "Please select where you want show Product Sale countdown."
+msgstr ""
+
+#: woosalescountdown-admin.php:131
+#@ woosalescountdown
+msgid "Both categories and product detail"
+msgstr ""
+
+#: woosalescountdown-admin.php:132
+#@ woosalescountdown
+msgid "Only categories "
+msgstr ""
+
+#: woosalescountdown-admin.php:133
+#@ woosalescountdown
+msgid "Only product detail"
+msgstr ""
+
+#: woosalescountdown-admin.php:137
+#@ woosalescountdown
+msgid "Use color"
+msgstr ""
+
+#: woosalescountdown-admin.php:141
+#@ woosalescountdown
+msgid "Please select color for countdown."
+msgstr ""
+
+#: woosalescountdown-admin.php:143
+#@ woosalescountdown
+msgid "WooCommerce Frontend Styles"
+msgstr ""
+
+#: woosalescountdown-admin.php:144
+#@ woosalescountdown
+msgid "Custom below"
+msgstr ""
+
+#: woosalescountdown-admin.php:148
+#@ woosalescountdown
+msgid "Time color"
+msgstr ""
+
+#: woosalescountdown-admin.php:153
+#@ woosalescountdown
+msgid "Set color for time on Countdown."
+msgstr ""
+
+#: woosalescountdown-admin.php:156
+#@ woosalescountdown
+msgid "Background color"
+msgstr ""
+
+#: woosalescountdown-admin.php:161
+#@ woosalescountdown
+msgid "Set background color for time on Countdown."
+msgstr ""
+
+#: woosalescountdown-admin.php:164
+#@ woosalescountdown
+msgid "Bar Sale color"
+msgstr ""
+
+#: woosalescountdown-admin.php:169
+#@ woosalescountdown
+msgid "Set bar's color what number sales on Countdown bar sale."
+msgstr ""
+
+#: woosalescountdown-admin.php:172
+#@ woosalescountdown
+msgid "Bar Sale Background color"
+msgstr ""
+
+#: woosalescountdown-admin.php:177
+#@ woosalescountdown
+msgid "Set bar's background color what number sales on Countdown bar sale."
+msgstr ""
+
+#: woosalescountdown-admin.php:180
+#@ woosalescountdown
+msgid "Product sale's title"
+msgstr ""
+
+#: woosalescountdown-admin.php:184
+#@ woosalescountdown
+msgid "Title of product what is saling."
+msgstr ""
+
+#: woosalescountdown-admin.php:187
+#@ woosalescountdown
+msgid "Product coming's title"
+msgstr ""
+
+#: woosalescountdown-admin.php:191
+#@ woosalescountdown
+msgid "Title of product what is coming sale."
+msgstr ""
+
+#: woosalescountdown-admin.php:194
+#@ woosalescountdown
+msgid "Show Sales Countdown message"
+msgstr ""
+
+#: woosalescountdown-admin.php:198
+#@ woosalescountdown
+msgid "Show message of product Comming title or product Sale title."
+msgstr ""
+
+#: woosalescountdown-admin.php:200
+#: woosalescountdown-admin.php:211
+#: woosalescountdown-admin.php:222
+#: woosalescountdown-admin.php:233
+#@ woosalescountdown
+msgid "No"
+msgstr ""
+
+#: woosalescountdown-admin.php:201
+#: woosalescountdown-admin.php:212
+#: woosalescountdown-admin.php:223
+#: woosalescountdown-admin.php:234
+#@ woosalescountdown
+msgid "Yes"
+msgstr ""
+
+#: woosalescountdown-admin.php:205
+#@ woosalescountdown
+msgid "Show date text"
+msgstr ""
+
+#: woosalescountdown-admin.php:209
+#@ woosalescountdown
+msgid "Show Days, Hours, Mins, Sec."
+msgstr ""
+
+#: woosalescountdown-admin.php:240
+#@ woosalescountdown
+msgid "Product Detail"
+msgstr ""
+
+#: woosalescountdown-admin.php:245
+#@ woosalescountdown
+msgid "CountDown position"
+msgstr ""
+
+#: woosalescountdown-admin.php:249
+#@ woosalescountdown
+msgid "Please choose postion where countdown show on product detail."
+msgstr ""
+
+#: woosalescountdown-admin.php:251
+#@ woosalescountdown
+msgid "Above tabs area"
+msgstr ""
+
+#: woosalescountdown-admin.php:252
+#@ woosalescountdown
+msgid "Below tabs area"
+msgstr ""
+
+#: woosalescountdown-admin.php:253
+#@ woosalescountdown
+msgid "Above short description"
+msgstr ""
+
+#: woosalescountdown-admin.php:254
+#@ woosalescountdown
+msgid "Below short description"
+msgstr ""
+
+#: woosalescountdown-admin.php:255
+#@ woosalescountdown
+msgid "Above Add to cart"
+msgstr ""
+
+#: woosalescountdown-admin.php:256
+#@ woosalescountdown
+msgid "Below Add to cart"
+msgstr ""
+
+#: woosalescountdown-admin.php:262
+#@ woosalescountdown
+msgid "Product Category"
+msgstr ""
+
+#: woosalescountdown-admin.php:267
+#@ woosalescountdown
+msgid "CountDown position on category"
+msgstr ""
+
+#: woosalescountdown-admin.php:271
+#@ woosalescountdown
+msgid "Please choose postion where countdown show on category."
+msgstr ""
+
+#: woosalescountdown-admin.php:273
+#@ woosalescountdown
+msgid "Above price"
+msgstr ""
+
+#: woosalescountdown-admin.php:274
+#@ woosalescountdown
+msgid "Above title"
+msgstr ""
+
+#: woosalescountdown-admin.php:275
+#@ woosalescountdown
+msgid "Above Add to Cart"
+msgstr ""
+
+#: woosalescountdown-admin.php:276
+#@ woosalescountdown
+msgid "Below Add to Cart"
+msgstr ""
+
+#: woosalescountdown-admin.php:281
+#@ woosalescountdown
+msgid "Product SHORTCODE vs Product WIDGET"
+msgstr ""
+
+#: woosalescountdown-admin.php:286
+#@ woocommerce
+msgid "Product Show"
+msgstr ""
+
+#: woosalescountdown-admin.php:287
+#@ woocommerce
+msgid "Show title"
+msgstr ""
+
+#: woosalescountdown-admin.php:295
+#@ woocommerce
+msgid "Show price"
+msgstr ""
+
+#: woosalescountdown-admin.php:304
+#@ woocommerce
+msgid "Show Image"
+msgstr ""
+
+#: woosalescountdown-admin.php:313
+#@ woocommerce
+msgid "Linkable"
+msgstr ""
+
+#: woosalescountdown-admin.php:322
+#@ woocommerce
+msgid "Show Add To Cart button"
+msgstr ""
+
+#: woosalescountdown-admin.php:330
+#@ woosalescountdown
+msgid "Product Image Sizes"
+msgstr ""
+
+#: woosalescountdown-admin.php:334
+#@ woosalescountdown
+msgid "Image Sizes will be follow WooCommerce Setting. Setting at <a href=\"admin.php?page=wc-settings&tab=products\">Product setting</a>."
+msgstr ""
+
+#: woosalescountdown-admin.php:336
+#@ woosalescountdown
+msgid "Catalog Images"
+msgstr ""
+
+#: woosalescountdown-admin.php:337
+#@ woosalescountdown
+msgid "Single Product Image "
+msgstr ""
+
+#: woosalescountdown-admin.php:338
+#@ woosalescountdown
+msgid "Product Thumbnails"
+msgstr ""
+
+#: widget.php:48
+#@ woosalescountdown
+msgid "Title"
+msgstr ""
+
+#: widget.php:52
+#@ woosalescountdown
+msgid "Please select products"
+msgstr ""
+
+#: widget.php:79
+#: woosalescountdown.php:154
+#: woosalescountdown.php:517
+#: woosalescountdown.php:855
+#@ woosalescountdown
+msgid "days"
+msgstr ""
+
+#: widget.php:79
+#: woosalescountdown.php:154
+#: woosalescountdown.php:517
+#: woosalescountdown.php:855
+#@ woosalescountdown
+msgid "hours"
+msgstr ""
+
+#: widget.php:79
+#: woosalescountdown.php:154
+#: woosalescountdown.php:517
+#: woosalescountdown.php:855
+#@ woosalescountdown
+msgid "minutes"
+msgstr ""
+
+#: widget.php:79
+#: woosalescountdown.php:154
+#: woosalescountdown.php:517
+#: woosalescountdown.php:855
+#@ woosalescountdown
+msgid "seconds"
+msgstr ""
+
+#: widget.php:187
+#: widget.php:215
+#@ woosalescountdown
+msgid "sold"
+msgstr ""
+
+#: woosalescountdown.php:495
+#@ woosalescountdown
+msgid "Shortcode not correct"
+msgstr ""
+
+#: woosalescountdown.php:60
+#: woosalescountdown.php:1147
+#: woosalescountdown.php:1197
+#@ woosalescountdown
+msgid "Total product discount"
+msgstr ""
+
+#: woosalescountdown.php:1150
+#: woosalescountdown.php:1200
+#@ woosalescountdown
+msgid "Enter the TOTAL Sale product."
+msgstr ""
+
+#: woosalescountdown.php:61
+#: woosalescountdown.php:1157
+#: woosalescountdown.php:1207
+#@ woosalescountdown
+msgid "Quantity product sale"
+msgstr ""
+
+#: woosalescountdown.php:1160
+#: woosalescountdown.php:1210
+#@ woosalescountdown
+msgid "Quantity sale of this product is sold."
+msgstr ""
+
+#: woosalescountdown.php:1325
+#@ woosalescountdown
+msgid "Settings"
+msgstr ""
+
+#: widget.php:143
+#: widget.php:149
+#: woosalescountdown.php:234
+#: woosalescountdown.php:238
+#: woosalescountdown.php:378
+#: woosalescountdown.php:382
+#: woosalescountdown.php:565
+#: woosalescountdown.php:571
+#: woosalescountdown.php:703
+#: woosalescountdown.php:709
+#: woosalescountdown.php:932
+#: woosalescountdown.php:938
+#@ woosalescountdown
+msgid " to "
+msgstr ""
+
+#: woosalescountdown-admin.php:118
+#@ woosalescountdown
+msgid "Time and bar sale"
+msgstr ""
+
+#: woosalescountdown-admin.php:121
+#@ woosalescountdown
+msgid "Only schedule"
+msgstr ""
+
+#: woosalescountdown-admin.php:216
+#@ woosalescountdown
+msgid "Hide product"
+msgstr ""
+
+#: woosalescountdown-admin.php:220
+#@ woosalescountdown
+msgid "Product will be hide when time schedule expired."
+msgstr ""
+
+#: woosalescountdown-admin.php:227
+#@ woosalescountdown
+msgid "Remove Sale Price"
+msgstr ""
+
+#: woosalescountdown-admin.php:231
+#@ woosalescountdown
+msgid "Sale price will be remove when time schedule expired."
+msgstr ""
+
+#: woosalescountdown.php:57
+#@ woosalescountdown
+msgid "Sales Countdown"
+msgstr ""
+
+#: woosalescountdown.php:58
+#@ woosalescountdown
+msgid "Start date"
+msgstr ""
+
+#: woosalescountdown.php:59
+#@ woosalescountdown
+msgid "End date"
+msgstr ""
+
+#: woosalescountdown.php:78
+#@ woosalescountdown
+msgid "Hide all countdown and sale bar"
+msgstr ""
+
+#: woosalescountdown.php:79
+#@ woosalescountdown
+msgid "Hide countdown on this product."
+msgstr ""
+
+#: woosalescountdown.php:85
+#@ woosalescountdown
+msgid "Hide only countdown"
+msgstr ""
+
+#: woosalescountdown.php:86
+#@ woosalescountdown
+msgid "Hide only countdown on product sale. "
+msgstr ""
+
+#: woosalescountdown.php:92
+#@ woosalescountdown
+msgid "Hide only Sale Bar"
+msgstr ""
+
+#: woosalescountdown.php:93
+#@ woosalescountdown
+msgid "Hide only Sale Bar on product sale."
+msgstr ""
+
+#: woosalescountdown.php:263
+#: woosalescountdown.php:276
+#: woosalescountdown.php:594
+#: woosalescountdown.php:608
+#: woosalescountdown.php:753
+#: woosalescountdown.php:765
+#: woosalescountdown.php:960
+#: woosalescountdown.php:969
+#@ woosalescountdown
+msgid " sold"
+msgstr ""
+

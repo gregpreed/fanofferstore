@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-06-02 23:43+0100\n"
+"PO-Revision-Date: 2015-06-02 23:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-fs-social-comments-admin.php:149
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/fs-social-comments-options.php:5
+msgid "intro"
+msgstr ""
+"Welcome, this plugin will help you to synchronize  facebook comments with  "
+"wordpress integrated comments . We are currently in beta, so functions like "
+"delete and spam at the moment are not available. WARNING: Erasing or "
+"moderate comments by the wordpress comments page will have no effect on the "
+"comments of facebook so take care."
+
+#: admin/partials/fs-social-comments-options.php:9
+msgid "General Settings"
+msgstr ""
+
+#: admin/partials/fs-social-comments-options.php:12
+msgid "Hide default comments"
+msgstr ""
+
+#: admin/partials/fs-social-comments-options.php:21
+msgid "Facebook Settings"
+msgstr ""
+
+#: admin/partials/fs-social-comments-options.php:24
+msgid "Enable Facebook comments"
+msgstr ""
+
+#: admin/partials/fs-social-comments-options.php:40
+msgid "language code"
+msgstr "Language code"
+
+#: admin/partials/fs-social-comments-options.php:47
+msgid "Save Changes"
+msgstr ""
+
+#: admin/partials/fs-social-comments-options.php:146
+msgid "sidebar title"
+msgstr "What are we doing?"
+
+#: admin/partials/fs-social-comments-options.php:148
+msgid "sidebar content"
+msgstr ""
+"1 - Moderate and delete facebook comments by wordpress page<br />\n"
+"2 - Differentiation by color for facebook comments in the wordpress comments "
+"page<br />\n"
+"3 - Integration of the native WordPress comments and google+ comments that "
+"can be activated directly from the settings of the plugin<br />\n"
+"4 - Translation..."
+
+#: admin/partials/fs-social-comments-options.php:151
+msgid "sidebar title donate"
+msgstr "Help us"
+
+#: admin/partials/fs-social-comments-options.php:153
+msgid "sidebar content donate"
+msgstr ""
+"Help us to continue the development of this plugin, it takes very little of "
+"you."

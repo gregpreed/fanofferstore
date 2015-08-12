@@ -1,0 +1,491 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Sales Countdown v1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-29 10:46+0700\n"
+"PO-Revision-Date: 2014-07-29 10:46+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: D:\\FOOBLA Project\\obGoodies\\woosalescountdown"
+"\\woosalescountdown\n"
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:70
+msgid "Products Sales Countdown"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:107
+msgid "General Options"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:112
+msgid "Show count down"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:116
+msgid "Please select what you want show in sale countdown."
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:118
+msgid "Both"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:119
+msgid "Only time "
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:120
+msgid "Only bar sale"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:124
+msgid "Product Sale Countdown show on"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:128
+msgid "Please select where you want show Product Sale countdown."
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:130
+msgid "Both categories and product detail"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:131
+msgid "Only categories "
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:132
+msgid "Only product detail"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:136
+msgid "Use color"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:140
+msgid "Please select color for countdown."
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:142
+msgid "WooCommerce Frontend Styles"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:143
+msgid "Custom below"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:147
+msgid "Time color"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:152
+msgid "Set color for time on Countdown."
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:155
+msgid "Background color"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:160
+msgid "Set background color for time on Countdown."
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:163
+msgid "Bar Sale color"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:168
+msgid "Set bar's color what number sales on Countdown bar sale."
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:171
+msgid "Bar Sale Background color"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:176
+msgid "Set bar's background color what number sales on Countdown bar sale."
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:179
+msgid "Product sale's title"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:183
+msgid "Title of product what is saling."
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:186
+msgid "Product coming's title"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:190
+msgid "Title of product what is coming sale."
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:193
+msgid "Show Sales Countdown message"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:197
+msgid "Show message of product Comming title or product Sale title."
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:199
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:210
+msgid "No"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:200
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:211
+msgid "Yes"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:204
+msgid "Show date text"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:208
+msgid "Show Days, Hours, Mins, Sec."
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:217
+msgid "Product Detail"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:222
+msgid "CountDown position"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:226
+msgid "Please choose postion where countdown show on product detail."
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:228
+msgid "Above tabs area"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:229
+msgid "Below tabs area"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:230
+msgid "Above short description"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:231
+msgid "Below short description"
+msgstr ""
+
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:232
+msgid "Above Add to cart"
+msgstr ""
+
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:233
+msgid "Below Add to cart"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:239
+msgid "Product Category"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:244
+msgid "CountDown position on category"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:248
+msgid "Please choose postion where countdown show on category."
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:250
+msgid "Above price"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:251
+msgid "Above title"
+msgstr ""
+
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:252
+msgid "Above Add to Cart"
+msgstr ""
+
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:253
+msgid "Below Add to Cart"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:258
+msgid "Product SHORTCODE vs Product WIDGET"
+msgstr ""
+
+# @ woocommerce
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:263
+msgid "Product Show"
+msgstr ""
+
+# @ woocommerce
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:264
+msgid "Show title"
+msgstr ""
+
+# @ woocommerce
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:272
+msgid "Show price"
+msgstr ""
+
+# @ woocommerce
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:281
+msgid "Show Image"
+msgstr ""
+
+# @ woocommerce
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:290
+msgid "Linkable"
+msgstr ""
+
+# @ woocommerce
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:299
+msgid "Show Add To Cart button"
+msgstr ""
+
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:307
+msgid "Product Image Sizes"
+msgstr ""
+
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:311
+msgid ""
+"Image Sizes will be follow WooCommerce Setting. Setting at <a href=\"admin."
+"php?page=wc-settings&tab=products\">Product setting</a>."
+msgstr ""
+
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:313
+msgid "Catalog Images"
+msgstr ""
+
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:314
+msgid "Single Product Image "
+msgstr ""
+
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown-admin.php:315
+msgid "Product Thumbnails"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:56
+msgid "Title"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:60
+msgid "Please select products"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:87
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:332
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:542
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:831
+msgid "days"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:87
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:332
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:542
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:831
+msgid "hours"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:87
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:332
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:542
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:831
+msgid "minutes"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:87
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:332
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:542
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:831
+msgid "seconds"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:177
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:193
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:430
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:441
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:600
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:609
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:735
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:744
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:886
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:892
+msgid "sold"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:520
+msgid "Shortcode not correct"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:1054
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:1104
+msgid "Total product discount"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:1057
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:1107
+msgid "Enter the TOTAL Sale product."
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:1064
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:1114
+msgid "Quantity product sale"
+msgstr ""
+
+# @ woosalescountdown
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:1067
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:1117
+msgid "Quantity sale of this product is sold."
+msgstr ""
+
+#: D:\FOOBLA
+#: Project\obGoodies\woosalescountdown\woosalescountdown/woosalescountdown.php:1232
+msgid "Settings"
+msgstr ""
