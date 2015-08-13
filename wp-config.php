@@ -5,17 +5,16 @@ define('WP_CACHE', true); // Added by W3 Total Cache
 
 
 // ** MySQL settings ** //
-/** The name of the database for WordPress */
-define('DB_NAME', 'fanoffers_com');
+define('DB_NAME', 'bitnami_wordpress');
 
 /** MySQL database username */
-define('DB_USER', 'fanoffers_com');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '7Sp4gd2BV93RJhv');
+define('DB_PASSWORD', 'libero00');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'bitnamiwordpress.czjhfofnqmdk.us-west-2.rds.amazonaws.com:3306');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
@@ -33,7 +32,7 @@ define('LOGGED_IN_SALT',   '+kS%}~ W?*:itRmJ059aE(V!S_v[lO.,[2DDt:Ac8T:<Kb,j2;<8
 define('NONCE_SALT',       'U!e+VY2Hb|hr_nxmfB?MbmUwBHWU o|`2i+,?HQ/EHh  n5GMwpm+IWSLue0BHCm');
 
 
-$table_prefix = 'wp_';
+$table_prefix = 'wp_10_';
 
 
  
