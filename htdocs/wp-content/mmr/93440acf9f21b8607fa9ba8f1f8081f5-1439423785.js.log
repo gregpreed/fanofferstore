@@ -1,0 +1,32 @@
+2015-08-13T00:02:21+00:00 - MERGED:
+ - jquery-form - http://fanoffers.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js
+ - contact-form-7 - http://fanoffers.com/wp-content/plugins/contact-form-7/includes/js/scripts.js
+ - wc-add-to-cart - //fanoffers.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js
+ - jquery-blockui - //fanoffers.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js
+ - woocommerce - //fanoffers.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js
+ - jquery-cookie - //fanoffers.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js
+ - wc-cart-fragments - //fanoffers.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js
+ - prettyPhoto - //fanoffers.com/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js
+ - jquery-selectBox - http://fanoffers.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js
+ - jquery-yith-wcwl - http://fanoffers.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.js
+ - mr_tailor-foundation - http://fanoffers.com/wp-content/themes/mrtailor/js/foundation.min.js
+ - mr_tailor-foundation-interchange - http://fanoffers.com/wp-content/themes/mrtailor/js/foundation.interchange.js
+ - mr_tailor-isotope - http://fanoffers.com/wp-content/themes/mrtailor/js/isotope.pkgd.min.js
+ - mr_tailor-imagesloaded - http://fanoffers.com/wp-content/themes/mrtailor/js/imagesloaded.js
+ - mr_tailor-touchswipe - http://fanoffers.com/wp-content/themes/mrtailor/js/jquery.touchSwipe.min.js
+ - mr_tailor-fitvids - http://fanoffers.com/wp-content/themes/mrtailor/js/jquery.fitvids.js
+ - mr_tailor-idangerous-swiper - http://fanoffers.com/wp-content/themes/mrtailor/js/idangerous.swiper.min.js
+ - mr_tailor-owl - http://fanoffers.com/wp-content/themes/mrtailor/js/owl.carousel.min.js
+ - mr_tailor-fresco - http://fanoffers.com/wp-content/themes/mrtailor/js/fresco.js
+ - mr_tailor-nanoscroller - http://fanoffers.com/wp-content/themes/mrtailor/js/jquery.nanoscroller.min.js
+ - mr_tailor-select2 - http://fanoffers.com/wp-content/themes/mrtailor/js/select2.min.js
+ - mr_tailor-scroll_to - http://fanoffers.com/wp-content/themes/mrtailor/js/jquery.scroll_to.js
+ - mr_tailor-stellar - http://fanoffers.com/wp-content/themes/mrtailor/js/jquery.stellar.min.js
+ - mr_tailor-snapscroll - http://fanoffers.com/wp-content/themes/mrtailor/js/jquery.snapscroll.min.js
+ - mr_tailor-easyzoom - http://fanoffers.com/wp-content/themes/mrtailor/js/easyzoom.js
+ - mr_tailor-scripts - http://fanoffers.com/wp-content/themes/mrtailor/js/scripts.js
+ - jquery_hoverIntent_minified-js - http://fanoffers.com/wp-content/plugins/tfingi-megamenu/jquery.hoverIntent.minified.js
+ - tfingi-megamenu-frontend-js - http://fanoffers.com/wp-content/plugins/tfingi-megamenu/tfingi-megamenu-frontend.js
+ - wpb_composer_front_js - http://fanoffers.com/wp-content/plugins/js_composer/assets/js/js_composer_front.js
+2015-08-13T00:02:26+00:00 - COMPRESSING WITH MINIFY (PHP exec not available)
+2015-08-13T00:02:28+00:00 - COMPRESSION COMPLETE - 52.22K saved

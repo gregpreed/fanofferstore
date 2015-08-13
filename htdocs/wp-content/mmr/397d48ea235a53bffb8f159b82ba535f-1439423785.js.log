@@ -1,0 +1,7 @@
+2015-08-13T00:01:31+00:00 - MERGED:
+ - tp-tools - http://fanoffers.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js
+ - revmin - http://fanoffers.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js
+ - vc_woocommerce-add-to-cart-js - http://fanoffers.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js
+ - mr_tailor-modernizr - http://fanoffers.com/wp-content/themes/mrtailor/js/modernizr.custom.js
+2015-08-13T00:01:37+00:00 - COMPRESSING WITH MINIFY (PHP exec not available)
+2015-08-13T00:01:38+00:00 - COMPRESSION COMPLETE - 4.06K saved

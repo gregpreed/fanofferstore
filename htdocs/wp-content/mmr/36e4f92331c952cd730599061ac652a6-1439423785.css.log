@@ -1,0 +1,8 @@
+2015-08-13T02:08:30+00:00 - MERGED:
+ - admin-bar - /wp-includes/css/admin-bar.min.css
+ - contact-form-7 - http://fanoffers.com/wp-content/plugins/contact-form-7/includes/css/styles.css
+ - rs-plugin-settings - http://fanoffers.com/wp-content/plugins/revslider/public/assets/css/settings.css
+ - woocommerce_prettyPhoto_css - //fanoffers.com/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css
+ - woocommerce-layout - //fanoffers.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css
+2015-08-13T02:09:06+00:00 - COMPRESSING CSS
+2015-08-13T02:09:06+00:00 - COMPRESSION COMPLETE - 8.26K saved
