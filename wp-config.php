@@ -14,7 +14,7 @@ define('DB_USER', 'root');
 define('DB_PASSWORD', 'libero00');
 
 /** MySQL hostname */
-define('DB_HOST', 'bitnamiwordpress.czjhfofnqmdk.us-west-2.rds.amazonaws.com:3306');
+define('DB_HOST', 'fanoffers.czjhfofnqmdk.us-west-2.rds.amazonaws.com:3306');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
