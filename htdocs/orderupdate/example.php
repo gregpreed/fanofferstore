@@ -47,13 +47,10 @@ try {
 	// orders
 	//print_r( $client->orders->get() );
 	//print_r( $client->orders->get( 1199 ) );
-    $order_notes = $client->get_order_notes( 1199 );
-    print_r( $order_notes );
-    
 	//print_r( $client->orders->update_status( $order_id, 'pending' ) );
 
 	// order notes
-	//print_r( $client->order_notes->get( $order_id ) );
+print_r( $client->order_notes->get('1199') );
 	//print_r( $client->order_notes->create( $order_id, array( 'note' => 'Some order note' ) ) );
 	//print_r( $client->order_notes->update( $order_id, $note_id, array( 'note' => 'An updated order note' ) ) );
 	//print_r( $client->order_notes->delete( $order_id, $note_id ) );
