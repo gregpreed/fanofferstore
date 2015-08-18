@@ -46,7 +46,7 @@ try {
 
 	// orders
 	//print_r( $client->orders->get() );
-	//print_r( $client->orders->get( $order_id ) );
+	print_r( $client->orders->get( '1199' ) );
 	//print_r( $client->orders->update_status( $order_id, 'pending' ) );
 
 	// order notes
@@ -64,7 +64,7 @@ try {
 
 	// products
 	//print_r( $client->products->get() );
-	print_r( $client->products->get( '1199' ) );
+	//print_r( $client->products->get( '1199' ) );
 	//print_r( $client->products->get( $variation_id ) );
 	//print_r( $client->products->get_by_sku( 'a-product-sku' ) );
 	//print_r( $client->products->create( array( 'title' => 'Test Product', 'type' => 'simple', 'regular_price' => '9.99', 'description' => 'test' ) ) );
