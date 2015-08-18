@@ -1,12 +1,10 @@
 <?php
-require "Slim/Slim.php";
-$app = new Slim();
+require 'vendor/autoload.php';
+require_once( 'lib/woocommerce-api.php' );
 
-$app->get('/', function() {     
-    get_header();
-    echo "hello";
-    get_footer();
+$app = new \Slim\Slim();
+$app->get('/hello/:name', function ($name) {
+    echo "Hello, " . $name;
 });
-
-$app->run(); 
+$app->run();
 ?>
