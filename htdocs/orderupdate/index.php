@@ -1,8 +1,12 @@
 <?php
-require 'vendor/autoload.php';
-$app = new \Slim\Slim();
-$app->get('/hello/:name', function ($name) {
-    echo "Hello, " . $name;
-});
-$app->run();
+require "Slim/Slim.php";
+$app = new Slim();
 
+$app->get('/', function() {     
+    get_header();
+    echo "hello";
+    get_footer();
+});
+
+$app->run(); 
+?>
