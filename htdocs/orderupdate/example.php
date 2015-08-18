@@ -63,7 +63,7 @@ try {
 	//print_r( $client->order_refunds->delete( $order_id, $refund_id ) );
 
 	// products
-	//print_r( $client->products->get() );
+	print_r( $client->products->get() );
 	//print_r( $client->products->get( $product_id ) );
 	//print_r( $client->products->get( $variation_id ) );
 	//print_r( $client->products->get_by_sku( 'a-product-sku' ) );
