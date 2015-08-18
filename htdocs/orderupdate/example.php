@@ -14,9 +14,11 @@ try {
 
 	$client = new WC_API_Client( 'https://fanoffers.com', 'ck_b2b780b5f7a4cd3cd5484cbda1149a26', 'cs_b7b7765ca1b683318809e6b4b5bb804b', $options );
 
+    
+    print_r($client->wc_get_order_id_by_order_key('wc_order_55d29731a97a8'));
 	// coupons
 	//print_r( $client->coupons->get() );
-	//print_r( $client->coupons->get( $coupon_id ) );
+	//print_r( $client->coupons->get( $coupon_id ));
 	//print_r( $client->coupons->get_by_code( 'coupon-code' ) );
 	//print_r( $client->coupons->create( array( 'code' => 'test-coupon', 'type' => 'fixed_cart', 'amount' => 10 ) ) );
 	//print_r( $client->coupons->update( $coupon_id, array( 'description' => 'new description' ) ) );
