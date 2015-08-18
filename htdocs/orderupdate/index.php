@@ -15,7 +15,6 @@ $app->post('/printio-update', function () use ($app){
     );
 
 
-try {
 
 	$client = new WC_API_Client( 'https://fanoffers.com', 'ck_b2b780b5f7a4cd3cd5484cbda1149a26', 'cs_b7b7765ca1b683318809e6b4b5bb804b', $options );
     
@@ -26,7 +25,7 @@ try {
         }
     
         
-}
+
     
 }
 }
