@@ -47,7 +47,7 @@ try {
 	// orders
 	//print_r( $client->orders->get() );
 	//print_r( $client->orders->get( 1199 ) );
-    $order_notes = $wc_api->get_order_notes( 1199 );
+    $order_notes = $client->get_order_notes( 1199 );
     print_r( $order_notes );
     
 	//print_r( $client->orders->update_status( $order_id, 'pending' ) );
