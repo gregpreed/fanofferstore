@@ -6,14 +6,14 @@ $app = new \Slim\Slim();
 $app->post('/printio-update', function () use ($app){
     $json = $app->request->getBody();
     $data = json_decode($json, true);
-    
-$options = array(
+    $options = array(
 	'debug'           => true,
 	'return_as_array' => false,
 	'validate_url'    => false,
 	'timeout'         => 30,
 	'ssl_verify'      => false,
-);
+    );
+
 
 try {
 
@@ -29,10 +29,11 @@ try {
 }
     
 }
-    
+}
     
 }); 
 $app->run();
+
 ?>
 
 
