@@ -975,9 +975,8 @@ function printio($order_id)
             );
         }
     }
-    ;
     
-    if (count($printioList) > 0) {
+ if (count($printioList) > 0) {
         $data = array(
             'ShipToAddress' => array(
                 'FirstName' => $order->shipping_first_name,
@@ -993,6 +992,8 @@ function printio($order_id)
                 'Email' => $order->billing_email
             ),
             'Items' => $printioList,
+		    'SourceId' => $order->id,
+			),
             'Payment' => array(
                //"PartnerBillingKey" => "qT/RiO+5DqeuNovsjzznkIQBhaUBJw2EQfFRK/PU+60="
 			  //Live
@@ -1016,5 +1017,8 @@ function printio($order_id)
         ));
         
         $result = curl_exec($ch);
-    }
+	  echo $result;
+ }
+    
+    
 }

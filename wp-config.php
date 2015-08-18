@@ -1,8 +1,8 @@
 <?php
 /** Enable W3 Total Cache */
 define('WP_CACHE', true); // Added by W3 Total Cache
-
-
+define('FORCE_SSL_LOGIN', true);
+define('FORCE_SSL_ADMIN', true);
 
 // ** MySQL settings ** //
 define('DB_NAME', 'bitnami_wordpress');

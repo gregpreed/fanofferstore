@@ -1,0 +1,896 @@
+08-14-2015 @ 22:50:53 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:02 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:50:54 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:02 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:06 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:14 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:06 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:15 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:08 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:17 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:32 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:40 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:32 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:41 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:34 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:43 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:35 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:44 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:38 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:47 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:39 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:48 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:42 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:51 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:43 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:52 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:45 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:54 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:45 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:54 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:47 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:56 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:48 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:57 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:49 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:58 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:50 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:49:59 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:55 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:50:03 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:51:55 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:50:04 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:52:03 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:50:12 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:52:26 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:50:35 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:52:27 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:50:36 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:52:36 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:50:45 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:52:37 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:50:46 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:52:44 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:50:53 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:52:44 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:50:53 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:53:36 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:51:45 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:53:36 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:51:45 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:54:10 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:52:19 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-14-2015 @ 22:54:11 - Error getting stamps_authenticator: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 14 Aug 2015 22:52:20 GMT
+            [server] => Apache/2.4.7 (Ubuntu)
+            [x-powered-by] => PHP/5.5.9-1ubuntu4.4
+            [access-control-allow-orgin] => *
+            [access-control-allow-methods] => *
+            [content-length] => 54
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"error":"Error, see message: Authentication failed."}
+    [response] => Array
+        (
+            [code] => 500
+            [message] => Internal Server Error
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+

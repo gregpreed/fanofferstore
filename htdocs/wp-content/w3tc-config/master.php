@@ -165,7 +165,7 @@ return array(
 	'pgcache.prime.limit' => 10,
 	'pgcache.prime.sitemap' => '',
 	'pgcache.prime.post.enabled' => false,
-	'minify.enabled' => true,
+	'minify.enabled' => false,
 	'minify.auto' => false,
 	'minify.debug' => false,
 	'minify.engine' => 'memcached',
@@ -183,7 +183,7 @@ return array(
 	),
 	'minify.lifetime' => 86400,
 	'minify.upload' => true,
-	'minify.html.enable' => false,
+	'minify.html.enable' => true,
 	'minify.html.engine' => 'htmltidy',
 	'minify.html.reject.feed' => false,
 	'minify.html.inline.css' => false,
@@ -193,7 +193,7 @@ return array(
 		0 => 'google_ad_',
 		1 => 'RSPEAK_',
 	),
-	'minify.css.enable' => true,
+	'minify.css.enable' => false,
 	'minify.css.engine' => 'css',
 	'minify.css.combine' => false,
 	'minify.css.strip.comments' => false,
@@ -201,7 +201,7 @@ return array(
 	'minify.css.imports' => '',
 	'minify.css.groups' => array(
 	),
-	'minify.js.enable' => true,
+	'minify.js.enable' => false,
 	'minify.js.engine' => 'js',
 	'minify.js.combine.header' => false,
 	'minify.js.header.embed_type' => 'blocking',
@@ -246,12 +246,16 @@ return array(
 	'minify.htmltidy.options.wrap' => 0,
 	'minify.reject.logged' => false,
 	'minify.reject.ua' => array(
+		0 => '',
 	),
 	'minify.reject.uri' => array(
+		0 => '',
 	),
 	'minify.reject.files.js' => array(
+		0 => '',
 	),
 	'minify.reject.files.css' => array(
+		0 => '',
 	),
 	'minify.cache.files' => array(
 		0 => 'https://ajax.googleapis.com',
@@ -427,7 +431,7 @@ return array(
 	'browsercache.other.etag' => false,
 	'browsercache.other.w3tc' => false,
 	'browsercache.other.replace' => false,
-	'browsercache.timestamp' => '1439438034',
+	'browsercache.timestamp' => '1439591695',
 	'browsercache.replace.exceptions' => array(
 		0 => '',
 	),
@@ -630,7 +634,7 @@ return array(
 	'notes.wp_content_perms' => true,
 	'notes.theme_changed' => false,
 	'notes.wp_upgraded' => false,
-	'notes.plugins_updated' => false,
+	'notes.plugins_updated' => true,
 	'notes.cdn_upload' => false,
 	'notes.cdn_reupload' => false,
 	'notes.need_empty_pgcache' => false,
