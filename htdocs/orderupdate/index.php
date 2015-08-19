@@ -21,7 +21,7 @@ $app->post('/printio-update', function () use ($app){
          
     for ($i =0; $i <= count($data['Items']); $i++) {
     if( isset( $data['Items'][$i]['TrackingNumber']) ){
-        print_r( $client->order_notes->create( 1201, array( 'note' => 'Tracking Number: '.$data['Items'][$i]['TrackingNumber'].' Tracking URL: '.$data['Items'][$i]['TrackingUrl'] ) ) );
+        print_r( $client->order_notes->create( $data['sourceid'], array( 'note' => 'Tracking Number: '.$data['Items'][$i]['TrackingNumber'].' Tracking URL: '.$data['Items'][$i]['TrackingUrl'] ) ) );
         }
 }
 
