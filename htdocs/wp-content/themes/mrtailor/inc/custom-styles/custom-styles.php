@@ -6,7 +6,7 @@ function mr_tailor_custom_styles() {
 	$slider_metabox->the_meta();
 	
 	//convert hex to rgb
-	function getbowtied_hex2rgb($hex) {
+	function hex2rgb($hex) {
 		$hex = str_replace("#", "", $hex);
 		
 		if(strlen($hex) == 3) {
@@ -289,7 +289,7 @@ function mr_tailor_custom_styles() {
 			
 			.product_after_shop_loop .price
 			{
-				color: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.80);
+				color: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.80);
 			}
 			
 			a:hover, a:focus,
@@ -324,13 +324,13 @@ function mr_tailor_custom_styles() {
 			.products li:hover .add_to_wishlist:before,
 			.product_after_shop_loop .price del
 			{
-				color: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.55);
+				color: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.55);
 			}
 			
 			.widget.widget_price_filter .price_slider_amount .button:hover,
 			.woocommerce a.remove:hover
 			{
-				color: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.55) !important;
+				color: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.55) !important;
 			}
 			
 			.required,
@@ -355,17 +355,17 @@ function mr_tailor_custom_styles() {
 			.trigger-share-list .fa,
 			.post_meta_archive a
 			{
-				color: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.45);
+				color: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.45);
 			}
 			
 			.products a.button:hover
 			{
-				color: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.45) !important; 
+				color: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.45) !important; 
 			}
 			
 			.products .add_to_wishlist:before
 			{
-				color: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.40);
+				color: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.40);
 			}
 			
 			.woocommerce .star-rating:before,
@@ -373,12 +373,12 @@ function mr_tailor_custom_styles() {
 			.woocommerce p.stars,
 			.woocommerce-page p.stars
 			{
-				color: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.35); 
+				color: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.35); 
 			}
 			
 			pre
 			{
-				border-color: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.15);
+				border-color: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.15);
 			}
 			
 			hr,
@@ -388,7 +388,7 @@ function mr_tailor_custom_styles() {
 			.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li,
 			.wpb_widgetised_column .tagcloud a
 			{
-				border-color: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13);
+				border-color: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13);
 			}
 			
 			.woocommerce table.shop_table tbody th,
@@ -408,13 +408,13 @@ function mr_tailor_custom_styles() {
 			.blog-isotop-master-wrapper #nav-below.paging-navigation,
 			.payment_methods li:first-child
 			{
-				border-top-color: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13);
+				border-top-color: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13);
 			}
 			
 			abbr,
 			acronym
 			{
-				border-bottom-color: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,1);	
+				border-bottom-color: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,1);	
 			}
 			
 			table tr,
@@ -431,14 +431,14 @@ function mr_tailor_custom_styles() {
 			.woocommerce .shop_table.customer_details tbody tr:last-child th,
 			.woocommerce .shop_table.customer_details tbody tr:last-child td
 			{
-				border-bottom-color: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13);
+				border-bottom-color: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13);
 			}
 			
 			
 			.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
 			.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range
 			{
-				background: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.35);
+				background: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.35);
 			}
 			
 			.woocommerce-checkout .thank_you_bank_details h3:after,
@@ -447,12 +447,12 @@ function mr_tailor_custom_styles() {
 			.blog-isotope:before,
 			.blog-isotope:after
 			{
-				background: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13);
+				background: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13);
 			}
 			
 			pre
 			{
-				background: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.05);
+				background: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.05);
 			}
 			
 			.comments_section,
@@ -464,7 +464,7 @@ function mr_tailor_custom_styles() {
 			.shop_table.order_details tfoot,
 			.shop_table.woocommerce-checkout-review-order-table tfoot
 			{
-				background: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.04);
+				background: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.04);
 			}
 			
 				
@@ -476,7 +476,7 @@ function mr_tailor_custom_styles() {
 				.woocommerce-page #content nav.woocommerce-pagination ul,
 				.woocommerce-page nav.woocommerce-pagination ul
 				{
-					border-color: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13)  transparent rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13) rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13);
+					border-color: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13)  transparent rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13) rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13);
 				}
 				
 				.woocommerce #content nav.woocommerce-pagination ul li,
@@ -484,7 +484,7 @@ function mr_tailor_custom_styles() {
 				.woocommerce-page #content nav.woocommerce-pagination ul li,
 				.woocommerce-page nav.woocommerce-pagination ul li
 				{
-					border-right-color: rgba(<?php echo getbowtied_hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13);
+					border-right-color: rgba(<?php echo hex2rgb($mr_tailor_theme_options['body_color']); ?>,0.13);
 				}
 				
 				.woocommerce div.product .woocommerce-tabs ul.tabs li,

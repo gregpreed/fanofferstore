@@ -1,8 +1,12 @@
 <?php
-
-$output = $after_output = '';
-$atts = vc_map_get_attributes( $this->getShortcode(), $atts );
-extract( $atts );
+$output = $font_color = $el_class = $width = $offset = '';
+extract(shortcode_atts(array(
+	'font_color'      => '',
+    'el_class' => '',
+    'width' => '1/1',
+    'css' => '',
+	'offset' => ''
+), $atts));
 
 $el_class = $this->getExtraClass($el_class);
 

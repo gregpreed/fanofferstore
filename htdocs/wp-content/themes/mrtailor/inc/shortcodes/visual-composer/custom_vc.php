@@ -43,39 +43,15 @@ vc_remove_element("product_page");*/
 
 
 // [vc_row]
-vc_remove_param("vc_row", "full_width");
-
-vc_add_param("vc_row", array(
-	"type"			=> "colorpicker",
-	"holder"		=> "div",
-	"class" 		=> "hide_in_vc_editor",
-	"admin_label" 	=> true,
-	"heading"		=> "Font Color",
-	"param_name"	=> "font_color",
-	"value"			=> "#000",
-));
-
 vc_add_param("vc_row", array(
 	"type" 			=> "dropdown",
 	"class" 		=> "hide_in_vc_editor",
 	"admin_label" 	=> true,
-	"heading" 		=> "Row Width",
+	"heading" 		=> "Row Type",
 	"param_name" 	=> "type",
-	"value" 		=> array(
-		"Full" 		=> "full_width",
-		"Boxed" 	=> "boxed"
-	)
-));
-
-vc_add_param("vc_row", array(
-	"type" 			=> "dropdown",
-	"class" 		=> "hide_in_vc_editor",
-	"admin_label" 	=> true,
-	"heading" 		=> "Row Height",
-	"param_name" 	=> "row_height",
-	"value" 		=> array(
-		"Normal" 	=> "normal",
-		"Manual" 	=> "manual_height"
+	"value" => array(
+		"Full Width" 	=> "full_width",
+		"Boxed" 		=> "boxed"
 	)
 ));
 
@@ -86,21 +62,19 @@ vc_add_param("vc_row", array(
 	"heading" 		=> __("Height"),
 	"param_name" 	=> "height",
 	"value" 		=> "",
-	"description" 	=> "",
-	"dependency" 	=> Array('element' => "row_height", 'value' => array('manual_height'))
+	"description" 	=> ""
 ));
 
 vc_add_param("vc_row", array(
-	"type" 			=> "dropdown",
-	"class" 		=> "hide_in_vc_editor",
-	"admin_label" 	=> true,
-	"heading" 		=> "Columns Height",
-	"param_name" 	=> "columns_height",
-	"value" 		=> array(
-		"Normal" 				=> "normal_height",
-		"Fit Columns Height" 	=> "adjust_cols_height"
-	),
-	"dependency" 	=> Array('element' => "row_height", 'value' => array('manual_height'))
+	"type" => "dropdown",
+	"class" => "hide_in_vc_editor",
+	"admin_label" => true,
+	"heading" => "Columns Height",
+	"param_name" => "columns_height",
+	"value" => array(
+		"Normal" => "normal_height",
+		"Fit Columns Height" => "adjust_cols_height"
+	)
 ));
 
 

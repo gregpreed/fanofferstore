@@ -1,9 +1,16 @@
 <?php
-
-$output = $after_output = '';
-$atts = vc_map_get_attributes( $this->getShortcode(), $atts );
-extract( $atts );
-
+extract(shortcode_atts(array(
+    'title' => '',
+    'title_align' => '',
+    'el_width' => '',
+    'style' => '',
+    'color' => '',
+    'accent_color' => '',
+    'el_class' => '',
+	'subtitle' => '',
+	'title_size' => '',
+	'subtitle_size' => '',
+), $atts));
 $class = "vc_separator wpb_content_element";
 
 $class .= ($title_align!='') ? ' vc_'.$title_align : '';

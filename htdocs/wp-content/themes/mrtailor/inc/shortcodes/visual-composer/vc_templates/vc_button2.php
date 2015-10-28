@@ -1,8 +1,14 @@
 <?php
-
-$output = $after_output = '';
-$atts = vc_map_get_attributes( $this->getShortcode(), $atts );
-extract( $atts );
+extract( shortcode_atts( array(
+	'link' => '',
+	'title' => __( 'Text on the button', "js_composer" ),
+	'color' => '',
+	'icon' => '',
+	'size' => '',
+	'style' => '',
+	'el_class' => '',
+	'align' => ''
+), $atts ) );
 
 $class = 'vc_btn';
 //parse link

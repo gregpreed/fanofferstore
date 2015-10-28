@@ -10,9 +10,9 @@ function mr_tailor_theme_register_required_plugins() {
 		array(
 			'name'     				=> 'WooCommerce', // The plugin name
 			'slug'     				=> 'woocommerce', // The plugin slug (typically the folder name)
-			'source'   				=> 'https://downloads.wordpress.org/plugin/woocommerce.2.3.11.zip', // The plugin source
+			'source'   				=> 'https://downloads.wordpress.org/plugin/woocommerce.2.3.10.zip', // The plugin source
 			'required' 				=> false, // If false, the plugin is only 'recommended' instead of required
-			'version' 				=> '2.3.11', // E.g. 1.0.0. If set, the active plugin must be this version or higher, otherwise a notice is presented
+			'version' 				=> '2.3.10', // E.g. 1.0.0. If set, the active plugin must be this version or higher, otherwise a notice is presented
 			'force_activation' 		=> false, // If true, plugin is activated upon theme activation and cannot be deactivated until theme switch
 			'force_deactivation' 	=> false, // If true, plugin is deactivated upon theme switch, useful for theme-specific plugins
 			'external_url' 			=> '', // If set, overrides default API URL and points to an external URL
@@ -21,7 +21,7 @@ function mr_tailor_theme_register_required_plugins() {
 		array(
 			'name'     				=> 'WooCommerce Header Category Image', // The plugin name
 			'slug'     				=> 'woocommerce-header-category-image', // The plugin slug (typically the folder name)
-			'source'   				=> get_template_directory() . '/inc/plugins/woocommerce-header-category-image.zip', // The plugin source
+			'source'   				=> get_stylesheet_directory() . '/inc/plugins/woocommerce-header-category-image.zip', // The plugin source
 			'required' 				=> false, // If false, the plugin is only 'recommended' instead of required
 			'version' 				=> '1.0.0', // E.g. 1.0.0. If set, the active plugin must be this version or higher, otherwise a notice is presented
 			'force_activation' 		=> false, // If true, plugin is activated upon theme activation and cannot be deactivated until theme switch
@@ -32,7 +32,7 @@ function mr_tailor_theme_register_required_plugins() {
 		array(
 			'name'     				=> 'Envato Toolkit', // The plugin name
 			'slug'     				=> 'envato-wordpress-toolkit', // The plugin slug (typically the folder name)
-			'source'   				=> get_template_directory() . '/inc/plugins/envato-wordpress-toolkit.zip', // The plugin source
+			'source'   				=> get_stylesheet_directory() . '/inc/plugins/envato-wordpress-toolkit.zip', // The plugin source
 			'required' 				=> false, // If false, the plugin is only 'recommended' instead of required
 			'version' 				=> '1.7.2', // E.g. 1.0.0. If set, the active plugin must be this version or higher, otherwise a notice is presented
 			'force_activation' 		=> false, // If true, plugin is activated upon theme activation and cannot be deactivated until theme switch
@@ -43,9 +43,9 @@ function mr_tailor_theme_register_required_plugins() {
 		array(
             'name'					=> 'Visual Composer', // The plugin name
             'slug'					=> 'js_composer', // The plugin slug (typically the folder name)
-            'source'				=> get_template_directory() . '/inc/plugins/js_composer.zip', // The plugin source
+            'source'				=> get_stylesheet_directory() . '/inc/plugins/js_composer.zip', // The plugin source
             'required'				=> true, // If false, the plugin is only 'recommended' instead of required
-            'version'				=> '4.6', // E.g. 1.0.0. If set, the active plugin must be this version or higher, otherwise a notice is presented
+            'version'				=> '4.5.2', // E.g. 1.0.0. If set, the active plugin must be this version or higher, otherwise a notice is presented
             'force_activation'		=> false, // If true, plugin is activated upon theme activation and cannot be deactivated until theme switch
             'force_deactivation'	=> false, // If true, plugin is deactivated upon theme switch, useful for theme-specific plugins
             'external_url'			=> '', // If set, overrides default API URL and points to an external URL
@@ -54,7 +54,7 @@ function mr_tailor_theme_register_required_plugins() {
 		array(
 			'name'     				=> 'Revolution Slider', // The plugin name
 			'slug'     				=> 'revslider', // The plugin slug (typically the folder name)
-			'source'   				=> get_template_directory() . '/inc/plugins/revslider.zip', // The plugin source
+			'source'   				=> get_stylesheet_directory() . '/inc/plugins/revslider.zip', // The plugin source
 			'required' 				=> false, // If false, the plugin is only 'recommended' instead of required
 			'version' 				=> '4.6.93', // E.g. 1.0.0. If set, the active plugin must be this version or higher, otherwise a notice is presented
 			'force_activation' 		=> false, // If true, plugin is activated upon theme activation and cannot be deactivated until theme switch
@@ -68,7 +68,7 @@ function mr_tailor_theme_register_required_plugins() {
 			'name' 		=> 'Contact Form 7',
 			'slug' 		=> 'contact-form-7',
 			'required' 	=> false,
-			'version' 	=> '4.2.1',
+			'version' 	=> '4.1.2',
 		),
 
 	);

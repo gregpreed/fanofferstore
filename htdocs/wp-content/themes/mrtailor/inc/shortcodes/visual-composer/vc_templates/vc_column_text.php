@@ -1,8 +1,11 @@
 <?php
+$output = $el_class = $css_animation = '';
 
-$output = $after_output = '';
-$atts = vc_map_get_attributes( $this->getShortcode(), $atts );
-extract( $atts );
+extract(shortcode_atts(array(
+    'el_class' => '',
+    'css_animation' => '',
+    'css' => ''
+), $atts));
 
 $el_class = $this->getExtraClass($el_class);
 

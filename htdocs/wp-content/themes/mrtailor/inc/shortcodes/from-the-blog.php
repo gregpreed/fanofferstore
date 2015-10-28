@@ -4,7 +4,7 @@
 function shortcode_from_the_blog($atts, $content = null) {
 	$sliderrandomid = rand();
 	extract(shortcode_atts(array(
-		"posts" => '',
+		"posts" => '2',
 		"category" => ''
 	), $atts));
 	ob_start();

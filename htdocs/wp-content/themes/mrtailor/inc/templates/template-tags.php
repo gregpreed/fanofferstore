@@ -161,14 +161,6 @@ function mr_tailor_product_nav( $nav_id ) {
 	if (isset($ids[$thisindex-1])) $previd = $ids[$thisindex-1];
 	
 	if (isset($ids[$thisindex+1])) $nextid = $ids[$thisindex+1];
-
-	if (defined('ICL_SITEPRESS_VERSION')) {
-		$product_prev_link = get_permalink(icl_object_id($previd, 'product', true));
-		$product_next_link = get_permalink(icl_object_id($nextid, 'product', true));
-	} else {
-		$product_prev_link = get_permalink($previd);
-		$product_next_link = get_permalink($nextid);
-	}
 	
 	?>
 	
@@ -176,7 +168,7 @@ function mr_tailor_product_nav( $nav_id ) {
 	
         <?php if ( !empty($previd) ) : ?>
             <div class="product-nav-previous">
-                <a class="product_nav_link_left" href="<?php echo $product_prev_link; ?>">
+                <a class="product_nav_link_left" href="<?php echo get_permalink($previd); ?>">
                     <i class="getbowtied-icon-arrow_left"></i>
                     <?php $product_nav_img_prev = wp_get_attachment_image_src( get_post_thumbnail_id($previd), 'shop_thumbnail' ); ?>
                     <img class="product_nav_img" src="<?php echo $product_nav_img_prev[0]; ?>" alt="<?php echo get_the_title($previd); ?>">
@@ -186,7 +178,7 @@ function mr_tailor_product_nav( $nav_id ) {
 
         <?php if ( !empty($nextid) ) : ?>    
             <div class="product-nav-next">
-                <a class="product_nav_link_right" href="<?php echo $product_next_link; ?>">
+                <a class="product_nav_link_right" href="<?php echo get_permalink($nextid); ?>">
                     <?php $product_nav_img_next = wp_get_attachment_image_src( get_post_thumbnail_id($nextid), 'shop_thumbnail' ); ?>
                     <img class="product_nav_img" src="<?php echo $product_nav_img_next[0]; ?>" alt="<?php echo get_the_title($nextid); ?>">
                     <i class="getbowtied-icon-arrow_right"></i>
